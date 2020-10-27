@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    background-color: black;
+    
+}
+form{
+    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+input{
+    display: block;
+    margin: 10px;
+    
+    
+}
+h2{
+    color: white;
+}
+h4{
+    color: purple;
+}
+label{
+    color: white;
+    padding-bottom: 15px;
+}
+.footer{
+    color: white;
+}
+button{
+    background-color: black;
+    color: red;
+    width: 150px;
+    height: 50px;
+}
+button:hover{
+    color: aqua;
+}
