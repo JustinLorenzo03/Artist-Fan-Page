@@ -22,6 +22,20 @@ p{
 .footer {
   color: white;
 }
+  /*Added to the site for the flex*/
+  .flex-container {
+    display: flex;
+    background-color: black;
+  }
+  
+  .flex-container > div {
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 50%;
+  }
+  /*End of css for flex*/ 
 ul {
     list-style-type: none;
     margin: 0;
